@@ -62,6 +62,12 @@
       <sprite>sprites\spr_cursor</sprite>
       <sprite>sprites\spr_buttons</sprite>
     </sprites>
+    <sprites name="Collectables">
+      <sprites name="Coins">
+        <sprite>sprites\spr_coin16x16</sprite>
+        <sprite>sprites\spr_coin</sprite>
+      </sprites>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_tile</background>
@@ -106,6 +112,9 @@
     </objects>
     <objects name="Toilets">
       <object>objects\obj_portopot</object>
+    </objects>
+    <objects name="Collectables">
+      <object>objects\obj_coin</object>
     </objects>
   </objects>
   <rooms name="rooms">
