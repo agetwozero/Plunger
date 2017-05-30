@@ -1,0 +1,3 @@
+//Lifetime
+instance_destroy();
+

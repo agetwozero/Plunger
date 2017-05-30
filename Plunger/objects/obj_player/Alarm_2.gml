@@ -1,0 +1,2 @@
+weapon_ready = true;
+

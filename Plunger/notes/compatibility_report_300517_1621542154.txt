@@ -1,0 +1,95 @@
+Converting GML script : MACRO: GM_version
+Converted string : line 1 : '1.0.0.0 -> "1.0.0.0
+
+Font fnt_font has been converted to font family Impact (Regular). Font has been regenerated, small inconsistencies may occur.
+Converting GML script : ${project_dir}\objects\obj_player\Create_0.gml
+Converted description : /// @description Initializing object variables
+
+Converting GML script : ${project_dir}\objects\obj_player\Destroy_0.gml
+Converted description : /// @description Blood
+
+Converting GML script : ${project_dir}\objects\obj_player\Alarm_1.gml
+Converted description : /// @description  Mussle falsh
+
+Converting GML script : ${project_dir}\objects\obj_player\Alarm_0.gml
+Converted description : /// @description  Recoil alarm
+
+Converting GML script : ${project_dir}\objects\obj_player\Step_0.gml
+Converted description : /// @description Looking at mouse
+Converted string : line 29 : 'W' -> "W"
+Converted string : line 35 : 'A' -> "A"
+Converted string : line 41 : 'S' -> "S"
+Converted string : line 47 : 'D' -> "D"
+Converted string : line 63 : 'W' -> "W"
+Converted string : line 67 : 'A' -> "A"
+Converted string : line 71 : 'S' -> "S"
+Converted string : line 75 : 'D' -> "D"
+
+Converting GML script : ${project_dir}\objects\obj_player\Mouse_50.gml
+Converted description : /// @description Shoot 
+
+Converting GML script : ${project_dir}\objects\obj_zombie\Create_0.gml
+Converted description : /// @description Initializing object variables
+
+Converting GML script : ${project_dir}\objects\obj_zombie\Destroy_0.gml
+Converted description : /// @description Blood
+
+Converting GML script : ${project_dir}\objects\obj_zombie\Alarm_1.gml
+Converted description : /// @description  On hit alarm
+
+Converting GML script : ${project_dir}\objects\obj_zombie\Alarm_0.gml
+Converted description : /// @description Knockback timer
+
+Converting GML script : ${project_dir}\objects\obj_zombie\Step_0.gml
+Converted description : /// @description Looking at player
+
+Converting GML script : ${project_dir}\objects\obj_zombie\Collision_3b9bdc2d-ddca-4d20-a414-57587ac535e1.gml
+Converted description : /// @description  -HP and knockback
+
+Converting GML script : ${project_dir}\objects\obj_bullet\Destroy_0.gml
+Converted description : /// @description Camera shake
+
+Converting GML script : ${project_dir}\objects\obj_bullet\Alarm_0.gml
+Converted description : /// @description Lifetime
+
+Converting GML script : ${project_dir}\objects\obj_bullet\Step_0.gml
+Converted description : /// @description Check depth
+
+Converting GML script : ${project_dir}\objects\obj_bloodsplat\Step_0.gml
+Converted description : /// @description Check depth
+
+Converting GML script : ${project_dir}\objects\obj_tree\Step_0.gml
+Converted description : /// @description Check depth
+
+Converting GML script : ${project_dir}\objects\obj_fence\Step_0.gml
+Converted description : /// @description Check depth
+
+Converting GML script : ${project_dir}\objects\obj_portopot\Create_0.gml
+Converted description : /// @description  Init
+
+Converting GML script : ${project_dir}\objects\obj_portopot\Alarm_0.gml
+Converted description : /// @description Knockback timer
+
+Converting GML script : ${project_dir}\objects\obj_portopot\Step_0.gml
+Converted description : /// @description Step
+Converted string : line 23 : 'E' -> "E"
+Converted string : line 38 : 'W' -> "W"
+Converted string : line 43 : 'S' -> "S"
+
+Converting GML script : ${project_dir}\objects\obj_portopot\Collision_36070ee9-73ef-44e8-94af-ec31f75a5fac.gml
+Converted description : /// @description  -HP and knockback
+
+Converting GML script : ${project_dir}\objects\obj_portopot\Draw_0.gml
+Converted description : /// @description draws self and door
+
+game speed set to 60
+added compatibility script action/action_end_game.gml
+added compatibility script action/action_font.gml
+added compatibility script action/action_kill_object.gml
+added compatibility script action/action_restart_game.gml
+added compatibility script action/action_set_cursor.gml
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script action/__init_action.gml
+added compatibility script __init_global.gml
+added compatibility script __global_object_depths.gml
